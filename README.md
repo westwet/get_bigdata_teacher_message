@@ -1,0 +1,2 @@
+# get_bigdata_teacher_message
+get get_bigdata_teacher_message throw python
